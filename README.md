@@ -46,3 +46,19 @@ Attribute Information:
 
 • PROJECT OBJECTIVE: Apply dimensionality reduction technique – PCA and train a model using principal components instead of training the 
 model using just the raw data
+
+## Part 4:
+
+• DOMAIN: Sports management 
+
+• CONTEXT: Company X is a sports management company for international cricket. 
+
+• DATA DESCRIPTION: The data is collected belongs to batsman from IPL series conducted so far. Attribute Information: 
+1. Runs: Runs score by the batsman
+2. Ave: Average runs scored by the batsman per match
+3. SR: strike rate of the batsman
+4. Fours: number of boundary/four scored
+5. Six: number of boundary/six scored
+6. HF: number of half centuries scored so far
+
+• PROJECT OBJECTIVE: Goal is to build a data driven batsman ranking model for the sports management company to make business decisions.
